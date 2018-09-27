@@ -2,3 +2,5 @@ helloworld version 3
 head learn
 git has a mutable index called stage
 new change content
+
+my stupid boss still prefers SVN
