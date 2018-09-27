@@ -1,2 +1,3 @@
 helloworld version 3
 head learn
+git has a mutable index called stage
