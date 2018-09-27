@@ -3,5 +3,4 @@ head learn
 git has a mutable index called stage
 new change content
 
-my stupid boss still prefers SVN
-1111111111111111
+my stupid boss still prefers SVNï¼
